@@ -4,19 +4,3 @@
   padding: 2rem;
   text-align: center;
 }
-
-textarea {
-  width: 80vw;
-  min-height: calc(70vh - 5rem);
-  padding: 1rem;
-  font-size: 1.2rem;
-  font-family: 'Arial';
-  outline: none;
-  border: none;
-  border-radius: .8rem;
-  resize: none;
-}
-
-.suggestion {
-  color: red;
-}

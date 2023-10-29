@@ -1,17 +1,30 @@
 {
-  "être": [
-    "exister",
-    "vivre",
-    "subsister",
-    "demeurer",
-    "rester",
-    "se trouver",
-    "se situer",
-    "se placer",
-    "se tenir",
-    "se localiser",
-    "se loger",
-    "se nicher",
-    "se ranger"
-  ]
+  "être": {
+    "0": "exister",
+    "1": "vivre",
+    "2": "subsister",
+    "3": "demeurer",
+    "4": "rester",
+    "5": "se trouver",
+    "6": "se situer",
+    "7": "se placer",
+    "8": "se tenir",
+    "9": "se localiser",
+    "10": "se loger",
+    "11": "se nicher",
+    "12": "se ranger",
+    "13": "perdurer",
+    "14": "se maintenir",
+    "15": "se prolonger",
+    "16": "persister",
+    "17": "séjourner",
+    "18": "habiter",
+    "19": "coexister",
+    "20": "subsister",
+    "21": "végéter",
+    "22": "permaner",
+    "23": "s'établir",
+    "24": "trôner",
+    "25": "stationner"
+  }
 }
